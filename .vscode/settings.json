@@ -1,4 +1,4 @@
 {
     "git.confirmSync": false,
-    "git.rebaseWhenSync": true
+    "git.rebaseWhenSync": false
 }
